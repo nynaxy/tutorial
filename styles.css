@@ -11,3 +11,16 @@
     color: red;
 }
 #special {font-size: smaller;}
+.social-links a {
+    color: greenyellow;
+    text-decoration: none;
+}
+.menu > li {
+    border: 1px solid tomato;
+}
+a[title] {
+    color: deeppink;
+}
+a[href="https://htmlreference.io"] {
+    color: teal;
+}
