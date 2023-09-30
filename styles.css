@@ -1,0 +1,12 @@
+.alert {
+    font-size: 24px;
+    font-weight: 500;}
+.succes {
+    color: green;
+}
+.warning {
+    color: orange;
+}
+.error {
+    color: red;
+}
