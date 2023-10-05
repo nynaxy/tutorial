@@ -24,3 +24,10 @@ a[title] {
 a[href="https://htmlreference.io"] {
     color: teal;
 }
+.link {
+    color: seagreen;
+}
+
+.link:hover {
+    color: plum;
+}
