@@ -31,3 +31,21 @@ a[href="https://htmlreference.io"] {
 .link:hover {
     color: plum;
 }
+.social-links .link {
+    color: lawngreen;
+}
+
+.social-links .link:hover,
+.social-links .link:focus {
+    color: indigo;
+}
+.social-links .link:active {
+    color: maroon;
+}
+.social-links .link:visited {
+    color: mediumspringgreen;
+}
+.text {
+    background-color: mediumslateblue;
+    color: white;
+}
